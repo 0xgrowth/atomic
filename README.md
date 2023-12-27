@@ -1,7 +1,7 @@
 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  ..  .  .  .  .  .  .  .  .  .  .  
 
 ATOMIC by 0xgrowth
-Twitter: @0xgrowth
+Twitter: @0x_growth
 
 
 +++++++++++++++++++++
