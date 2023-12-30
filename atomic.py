@@ -89,8 +89,9 @@ while True:
 
     # ---  
  
-    # calling the function to display the snowballs
+    # --- calling the functions for atomic motion
         ballImg(a_pos[i],b_pos[i], i)
+        ballImg_one(c_pos[i],d_pos[i], i)
     # ---
 
     # --- EVENT HANDLERS 
