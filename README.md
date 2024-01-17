@@ -4,9 +4,9 @@ ATOMIC by 0xgrowth
 Twitter: @0x_growth
 
 
-+++++ +++++
-Available for collaborations and paid jobs. $$$
-+++++ +++++
+++
+Available for collaborations and paid jobs.
+++
 
  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    
 
@@ -21,4 +21,4 @@ You'd need to install pygame using pip, go to https://pypi.org/project/pip/ and 
 
 *If you have ideas to contribute to this repository,*
 
-Feel free to make your contributions to the *master* branch. 
+Feel free to make your contributions to the *master* branch. The more updated version of this project exists in the *master* branch.
